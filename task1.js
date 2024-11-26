@@ -7,7 +7,8 @@ let myString = "Hello, World!";
 
 let myNumber = 123;
 
-let myBoolean = true;
+let myBoolean = true; 
+      
 
 let myObject = {
   name: "samuel uwayo",
